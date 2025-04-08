@@ -1,5 +1,5 @@
 🚀 Projects Summary
-🧥 MyStyle | AI-Driven Wardrobe App Jan 2025 - Present
+🧥 MyStyle | AI-Driven Wardrobe App
 👕🤖📱🧠🌐🌿
 An AI-powered mobile app offering personalized outfit recommendations, wardrobe compatibility analysis, and AR-based virtual try-ons.
 Tech Stack:
@@ -11,9 +11,9 @@ A wedding card e-commerce platform with login, cart, wishlist, and COD payment i
 Tech Stack:
 🎨 Bootstrap | 🌐 Django | 🧾 HTML | 🎨 CSS | ⚙️ JavaScript | 🛢 MySQL
 
-🌾 Rice Disease Classification
+🌾 RiceIQ | A Web App for Rice Disease Classification
 🌾🔬📸
-A deep learning-based image classifier using EfficientNet to identify 4 types of rice plant diseases with 85% accuracy.
+A deep learning-based image classifier using hybrid model to identify 7 types of rice leaf diseases with ~99% accuracy.
 Tech Stack:
 🐍 Python | 🔶 TensorFlow | 🧠 Keras | 📸 OpenCV | 🔢 NumPy | 📊 Matplotlib
 
