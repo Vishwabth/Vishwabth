@@ -1,46 +1,69 @@
-👋 Hi, I'm Vishwajeet
-🚀 Crafting intelligent systems at the edge of AI and the Web.
+# 👋 Hi, I'm Vishwajeet Kumar  
+🚀 AI & ML Engineering Student | Backend Developer | Full-Stack Enthusiast  
 
-🎯 Aspiring Machine Learning Engineer & Full-stack Developer, passionate about building smart, user-centric applications using Machine Learning, Deep Learning, and modern web technologies like Django and Flutter.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vishwajeet-kumar-241242259/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Vishwabth)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://vishwajeet-kumar.onrender.com/)  
 
-💡 Mission
-To blend creativity with intelligent technologies and drive real-world impact through AI-powered web and mobile applications.
+---
 
-💻 Tech Stack
-👨‍💻 Programming Languages
-Python | JavaScript | HTML | CSS
+## 🎯 Overview  
+Innovative **AI & ML engineering student** with internship experience in backend and AI solutions.  
+Skilled in designing and integrating **AI algorithms**, deploying **deep learning models**, and building **scalable RESTful APIs**.  
+Strong background in **Python, TensorFlow, Docker, and Agile workflows** with cross-functional collaboration.  
 
-🧠 AI & ML Libraries
-TensorFlow | Keras | scikit-learn | OpenCV | NumPy | Matplotlib
-NLP: NLTK | spaCy
+---
 
-🔍 Deep Learning Focus
-EfficientNet | CNNs | RNNs | Word2Vec, GloVe
+## 🎓 Education  
+- **B.Tech in Artificial Intelligence & Machine Learning Engineering**  
+  Birla Institute of Technology, Mesra (2022–2026) 
+ 
 
-🌐 Web & App Development
-Django | REST APIs | MySQL
+---
 
-☁️ Cloud & Tools
-AWS | Git | Jupyter Notebook | Adobe Photoshop | Illustrator | Canva
+## 💼 Experience  
 
-🛠️ Projects Showcase
-🧥 MyStyle | AI-Powered Wardrobe App
-👕🤖📱🌿
-A smart mobile app offering outfit recommendations, wardrobe compatibility analysis, and AR-based virtual try-ons.
-Stack: Python | TensorFlow | Django | Flutter | ARCore | AWS | MySQL
+### **Backend Engineering Intern – Avior AI**  
+*June 2025 – Sept 2025 | Remote (India)*  
+- Automated backend pipelines integrating **Email, Slack, WhatsApp, and Webchat APIs**, reducing manual effort by 40% and achieving 99%+ delivery reliability.  
+- Designed, implemented, and tested **LLM workflows** in production systems using Agile sprints.  
+- Enhanced **vector databases (Redis, PostgreSQL, pgvector)** enabling real-time retrieval of 10K+ records.  
 
-💌 Anand Cards | E-commerce Website
-🛒💍🖥️
-A complete wedding card e-commerce platform with login/auth, cart, wishlist, and COD payment flow.
-Stack: Django | Bootstrap | HTML/CSS | JavaScript | MySQL
+---
 
-🌾 RiceIQ | Rice Disease Classification Web App
-🌿🔬📸
-A hybrid deep learning model for classifying 4+ rice leaf diseases with ~99% accuracy.
-Stack: Python | TensorFlow | Keras | OpenCV | NumPy | Matplotlib
 
-🔧 Soft Skills
-👥 Team Collaboration | 🧠 Problem Solving | 🗣 Communication | 🎯 Goal-Oriented Mindset
+## 💻 Skills  
 
-✨ Let's Connect
-If you're excited about AI, data science, or full-stack magic — let’s collaborate and make data-driven solutions come to life! 🌟
+**Programming & Development**  
+Python | JavaScript | HTML/CSS | Django | FastAPI | REST APIs  
+
+**AI & ML**  
+TensorFlow | Keras | PyTorch | scikit-learn | CNN | RNN | GNN | Model Deployment  
+
+**Data Engineering**  
+SQL (MySQL, PostgreSQL, SQLite) | Pandas | NumPy | Matplotlib | Vector Databases  
+
+**Dev Tools**  
+Git | Docker | Jupyter Notebook | Google Cloud Platform | CI/CD | pytest | Agile  
+
+**Collaboration**  
+Technical Communication | Cross-Functional Collaboration | Prompt Engineering  
+
+---
+
+## ✨ Let’s Connect  
+📧 [vishwajeetkushwaha2003@gmail.com](mailto:vishwajeetkushwaha2003@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishwajeet-kumar-241242259/) | [GitHub](https://github.com/Vishwabth) | [Portfolio](https://vishwajeet-kumar.onrender.com/)  
+
+## 🔧 Soft Skills  
+- Team Collaboration  
+- Problem Solving  
+- Communication  
+- Goal-Oriented Mindset  
+
+---
+
+## ✨ Let’s Connect  
+I’m always open to collaborations in **AI, Data Science, and Full-Stack Engineering**.  
+Let’s build impactful, data-driven solutions together 🚀  
+
