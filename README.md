@@ -64,6 +64,6 @@ Technical Communication | Cross-Functional Collaboration | Prompt Engineering
 ---
 
 ## ✨ Let’s Connect  
-I’m always open to collaborations in **AI, Data Science, and Full-Stack Engineering**.  
+I’m always open to collaborations in **AI, Data Science, Deep Learning and Full-Stack Engineering**.  
 Let’s build impactful, data-driven solutions together 🚀  
 
