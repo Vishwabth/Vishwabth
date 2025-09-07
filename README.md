@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vishwajeet Kumar  
-🚀 AI & ML Engineering Student | Backend Developer | Full-Stack Enthusiast  
+🚀 AI & ML Engineering Student | Backend Developer | Deep Learning Enthusiast  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vishwajeet-kumar-241242259/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Vishwabth)  
